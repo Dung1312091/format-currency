@@ -1,0 +1,19 @@
+{
+  "name": "format-currency",
+  "version": "1.0.0",
+  "description": "this is a library format currency vietnamses",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dung1312091/format-currency.git"
+  },
+  "author": "quangdung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dung1312091/format-currency/issues"
+  },
+  "homepage": "https://github.com/Dung1312091/format-currency#readme"
+}
